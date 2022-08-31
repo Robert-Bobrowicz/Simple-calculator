@@ -1,3 +1,3 @@
 # Simple-calculator
 
-This is basic operations calcutor. 
+This is a calcutor for basic operations. 
